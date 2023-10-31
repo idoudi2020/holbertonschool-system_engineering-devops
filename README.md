@@ -1,4 +1,3 @@
-## holbertonschool-system_engineering-devops
 ## Learning Objectives
 
 
