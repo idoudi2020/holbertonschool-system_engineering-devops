@@ -114,11 +114,10 @@ To monitor the web server's QPS (Queries Per Second), you can configure the moni
 
 ### Authors
 
-<p align="center">
+<div align="center">
+    <a href="https://www.holbertonschool.com/"target="_blank"><img src="https://user-images.githubusercontent.com/97880395/181658846-6e76edce-7d56-4abe-8c62-228479bde436.png" 
+    </a>
 
-  <a href="https://www.holbertonschool.com/"target="_blank"><img src="https://user-images.githubusercontent.com/97880395/181658846-6e76edce-7d56-4abe-8c62-228479bde436.png" </a>
-
-  
-</p>
-
-
+    <br>
+    <a href="https://github.com/idoudi2020" style="color: blue;"><strong>Idoudi Mokhtar</strong></a>
+</div>
