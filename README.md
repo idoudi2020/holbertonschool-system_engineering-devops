@@ -112,8 +112,7 @@ To monitor the web server's QPS (Queries Per Second), you can configure the moni
 
 - Overall, these additional elements in the infrastructure help improve scalability, availability, and performance by distributing the workload across multiple servers and allowing each component to be optimized individually. It ensures efficient resource utilization and better fault tolerance.
 
-### Authors 
-<a href="https://github.com/idoudi2020" style="color: blue;"><strong>idoudi2020</strong></a>
+### Authors
 
 <p align="center">
 
