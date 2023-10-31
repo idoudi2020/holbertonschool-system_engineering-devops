@@ -1,8 +1,9 @@
 # holbertonschool-system_engineering-devops
 ## `Description` 
- > What is a server: Server is software or hardware that provides services to other software and hardware. The following are common examples.
 
- - Web servers: The internet is based on web servers that respond to requests from clients such as web browsers.
+## `What is a server` : Server is software or hardware that provides services to other software and hardware. The following are common examples.
+
+## `What is the web servers:`: The internet is based on web servers that respond to requests from clients such as web browsers.
 
  - Application servers:A server that provides services to applications such as a mobile app. For example, a weather app on your phone might contect to a server for weather data.
 
